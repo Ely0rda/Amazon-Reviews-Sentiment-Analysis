@@ -55,10 +55,10 @@ The project uses the [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/
 4. **Entity Recognition**: Named Entity Recognition to identify product names and organizations
 5. **Visualization**: Graphical representation of sentiment patterns and trends
 
-## Screenshots
+<!-- ## Screenshots
 
 ![Sentiment Distribution](https://example.com/sentiment_distribution.png)
-*Example sentiment distribution visualization*
+*Example sentiment distribution visualization* -->
 
 ## Architecture
 
